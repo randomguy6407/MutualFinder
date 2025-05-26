@@ -16,6 +16,7 @@ Install MutualFinder using git clone
 ```
     
 ## 🛠️ Building Vencord from base
-As Vencord requires users to manually build the source from scratch and inject to discord, it requires you to download Vencord from source:
+As Vencord requires users to manually build the source from scratch and inject to discord, it requires you to download Vencord from source.
+Link to the official Vencord installation process:
 
 https://docs.vencord.dev/installing/
